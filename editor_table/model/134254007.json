@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/DM22/Fx_Skill/Water/Water_DM22_sexi_Skill01_v01_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134254007, 
+    "name": "\u5524\u6f6e\u84c4\u529b"
+}

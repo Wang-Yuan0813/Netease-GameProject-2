@@ -1,0 +1,1002 @@
+{
+    "1024": {}, 
+    "2048": {
+        "10005": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    21, 
+                    1286058339
+                ]
+            }, 
+            "id": 10005, 
+            "name": "\u5175\u79cd\u51fa\u751f\u70b91", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -55, 
+                        659626013
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -56, 
+                        594649309
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    6, 
+                    27816313
+                ]
+            }
+        }, 
+        "10006": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    16, 
+                    3292131019
+                ]
+            }, 
+            "id": 10006, 
+            "name": "\u5175\u79cd\u51fa\u751f\u70b92", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        56, 
+                        940383976
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -50, 
+                        1430804779
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    6, 
+                    468113642
+                ]
+            }
+        }, 
+        "10007": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    16, 
+                    3890466507
+                ]
+            }, 
+            "id": 10007, 
+            "name": "\u5175\u79cd\u51fa\u751f\u70b93", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -64, 
+                        948396343
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        32, 
+                        593983702
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    6, 
+                    293263594
+                ]
+            }
+        }, 
+        "10008": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    17, 
+                    2265779915
+                ]
+            }, 
+            "id": 10008, 
+            "name": "\u5175\u79cd\u51fa\u751f\u70b94", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        55, 
+                        380937101
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        33, 
+                        1572451681
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    6, 
+                    2517129450
+                ]
+            }
+        }, 
+        "10017": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    152, 
+                    254, 
+                    66
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    17, 
+                    3090734547
+                ]
+            }, 
+            "id": 10017, 
+            "name": "\u57fa\u5730\u751f\u6210\u533a\u57df1", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -80, 
+                        709269397
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -54, 
+                        226530431
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    17, 
+                    1680374295
+                ]
+            }
+        }, 
+        "10018": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    152, 
+                    254, 
+                    66
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    10, 
+                    619847680
+                ]
+            }, 
+            "id": 10018, 
+            "name": "\u57fa\u5730\u751f\u6210\u533a\u57df2", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        66, 
+                        1946142449
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -47, 
+                        2056827851
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    9, 
+                    2243526656
+                ]
+            }
+        }, 
+        "10019": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    152, 
+                    254, 
+                    66
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    8, 
+                    3011698688
+                ]
+            }, 
+            "id": 10019, 
+            "name": "\u57fa\u5730\u751f\u6210\u533a\u57df3", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -74, 
+                        935880704
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        37, 
+                        1712784048
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    8, 
+                    415825920
+                ]
+            }
+        }, 
+        "10020": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    152, 
+                    254, 
+                    66
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    9, 
+                    4196687872
+                ]
+            }, 
+            "id": 10020, 
+            "name": "\u57fa\u5730\u751f\u6210\u533a\u57df4", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        63, 
+                        4065892461
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        37, 
+                        394983761
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    9, 
+                    450953216
+                ]
+            }
+        }, 
+        "10027": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    3, 
+                    2727014626
+                ]
+            }, 
+            "id": 10027, 
+            "name": "\u73a9\u5bb61\u5175\u79cd\u573a\u666fUI\u4f4d\u7f6e", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -61, 
+                        3533381167
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -57, 
+                        3167560757
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    3, 
+                    4073759426
+                ]
+            }
+        }, 
+        "10031": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    4, 
+                    3036970326
+                ]
+            }, 
+            "id": 10031, 
+            "name": "\u73a9\u5bb62\u5175\u79cd\u573a\u666fUI\u4f4d\u7f6e", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        51, 
+                        382016578
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -60, 
+                        2198893915
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    4, 
+                    2927661040
+                ]
+            }
+        }, 
+        "10032": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    3, 
+                    1542264846
+                ]
+            }, 
+            "id": 10032, 
+            "name": "\u73a9\u5bb63\u5175\u79cd\u573a\u666fUI\u4f4d\u7f6e", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -49, 
+                        3825616516
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        55, 
+                        1697498793
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    4, 
+                    1488058898
+                ]
+            }
+        }, 
+        "10033": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    3, 
+                    503733285
+                ]
+            }, 
+            "id": 10033, 
+            "name": "\u73a9\u5bb64\u5175\u79cd\u573a\u666fUI\u4f4d\u7f6e", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        47, 
+                        3824762839
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        55, 
+                        4062281034
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    4, 
+                    2526776985
+                ]
+            }
+        }
+    }, 
+    "4096": {
+        "10000": {
+            "color": null, 
+            "id": 10000, 
+            "name": "\u73a9\u5bb61\u521b\u5efa\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -61, 
+                        2918712412
+                    ], 
+                    [
+                        -1, 
+                        4294965248
+                    ], 
+                    [
+                        -35, 
+                        1554401596
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    1, 
+                    2147483648
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }, 
+        "10001": {
+            "color": null, 
+            "id": 10001, 
+            "name": "\u73a9\u5bb62\u521b\u5efa\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        71, 
+                        2654410619
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -30, 
+                        2433867237
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    1, 
+                    2147483648
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }, 
+        "10002": {
+            "color": null, 
+            "id": 10002, 
+            "name": "\u73a9\u5bb63\u521b\u5efa\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -71, 
+                        2519528066
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        30, 
+                        3502618601
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    1, 
+                    2147483648
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }, 
+        "10003": {
+            "color": null, 
+            "id": 10003, 
+            "name": "\u73a9\u5bb64\u521b\u5efa\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        69, 
+                        227340475
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        28, 
+                        3556883687
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    1, 
+                    2147483648
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }, 
+        "10009": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    217, 
+                    4, 
+                    22, 
+                    254
+                ]
+            }, 
+            "id": 10009, 
+            "name": "boss\u751f\u6210\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -1, 
+                        2126328833
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        1760936591
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    12, 
+                    2975553343
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }, 
+        "10023": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    244, 
+                    179, 
+                    121, 
+                    99
+                ]
+            }, 
+            "id": 10023, 
+            "name": "\u7ad9\u573aboss\u51fa\u602a\u533a\u57df1", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -12, 
+                        2406170230
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -14, 
+                        2073249797
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    11, 
+                    687784128
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }, 
+        "10024": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    244, 
+                    179, 
+                    121, 
+                    99
+                ]
+            }, 
+            "id": 10024, 
+            "name": "\u7ad9\u573aboss\u51fa\u602a\u533a\u57df2", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        11, 
+                        549394093
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -14, 
+                        2232319369
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    11, 
+                    1060851141
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }, 
+        "10025": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    244, 
+                    179, 
+                    121, 
+                    99
+                ]
+            }, 
+            "id": 10025, 
+            "name": "\u7ad9\u573aboss\u51fa\u602a\u533a\u57df3", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -12, 
+                        2928555609
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        9, 
+                        1046880668
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    11, 
+                    469376833
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }, 
+        "10026": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    244, 
+                    179, 
+                    121, 
+                    99
+                ]
+            }, 
+            "id": 10026, 
+            "name": "\u7ad9\u573aboss\u51fa\u602a\u533a\u57df4", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        11, 
+                        2275460791
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        9, 
+                        2501015250
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    11, 
+                    2127528525
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }
+    }, 
+    "8192": {}, 
+    "32768": {
+        "9999": {
+            "camera_dist": 284.0, 
+            "far": 1000.0, 
+            "focus_max_dist": 70.0, 
+            "focus_min_dist": 15.0, 
+            "focus_x": -0.9210003614425654, 
+            "focus_y": -1.0123812899109907e-10, 
+            "focus_z": -1.1699999750275314, 
+            "fov": 25.0, 
+            "fov_disabled": true, 
+            "id": 9999, 
+            "is_origin_cam": true, 
+            "is_ortho": false, 
+            "name": "\u521d\u59cb\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 1.5533430429641157, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": false, 
+            "type": 32768, 
+            "yaw": 0.0
+        }, 
+        "10011": {
+            "camera_dist": 72.0, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": -56.20960618783264, 
+            "focus_y": -9.536904599372065e-11, 
+            "focus_z": -20.784562598637052, 
+            "fov": 25.0, 
+            "fov_disabled": null, 
+            "id": 10011, 
+            "is_origin_cam": false, 
+            "is_ortho": false, 
+            "name": "\u73a9\u5bb61\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 1.04719755705446, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": false, 
+            "type": 32768, 
+            "yaw": 4.71238900674507
+        }, 
+        "10012": {
+            "camera_dist": 72.0, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": 68.29791870126044, 
+            "focus_y": -9.536904599372065e-11, 
+            "focus_z": -29.72331714639356, 
+            "fov": 25.0, 
+            "fov_disabled": null, 
+            "id": 10012, 
+            "is_origin_cam": false, 
+            "is_ortho": false, 
+            "name": "\u73a9\u5bb62\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 1.04719755705446, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": false, 
+            "type": 32768, 
+            "yaw": 1.57079633558169
+        }, 
+        "10013": {
+            "camera_dist": 72.0, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": -67.8238028718113, 
+            "focus_y": -9.536904599372065e-11, 
+            "focus_z": 33.97649002079598, 
+            "fov": 25.0, 
+            "fov_disabled": null, 
+            "id": 10013, 
+            "is_origin_cam": false, 
+            "is_ortho": false, 
+            "name": "\u73a9\u5bb63\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 1.04719755705446, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": false, 
+            "type": 32768, 
+            "yaw": 4.71238900674507
+        }, 
+        "10014": {
+            "camera_dist": 72.0, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": 69.05328239448843, 
+            "focus_y": -9.536904599372065e-11, 
+            "focus_z": 33.27911186209033, 
+            "fov": 25.0, 
+            "fov_disabled": null, 
+            "id": 10014, 
+            "is_origin_cam": false, 
+            "is_ortho": false, 
+            "name": "\u73a9\u5bb64\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 1.04719755705446, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": false, 
+            "type": 32768, 
+            "yaw": 1.57079633558169
+        }
+    }, 
+    "65536": {}, 
+    "131072": {}, 
+    "262144": {}, 
+    "1048576": {}, 
+    "2097152": {}, 
+    "4194304": {}, 
+    "134217728": {}
+}

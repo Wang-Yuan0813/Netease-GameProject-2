@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/DM2/Fx_Ui/Ui_DM2_warning_Circle_c0003_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134222420, 
+    "name": "\u9b54\u8c61-\u8df3\u65a9\u9884\u8b66"
+}

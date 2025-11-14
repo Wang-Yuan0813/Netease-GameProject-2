@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 3.0, 
+    "effect_path": "Fx_Effect/DM2/Fx_Skill/Soil/Soil_DM2_octopus_Attack_a0001_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134268877, 
+    "name": "\u9b54\u8c61-\u951a\u51fb"
+}

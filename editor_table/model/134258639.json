@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Realism/Fx_Skill/Water/Water_kbq_buff01_03_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134258639, 
+    "name": "\u6c34\u6f29\u6da1"
+}

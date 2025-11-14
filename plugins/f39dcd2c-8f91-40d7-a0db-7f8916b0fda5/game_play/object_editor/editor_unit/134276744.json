@@ -1,0 +1,385 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "168022018": {
+            "action": [
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_UNIT"
+                                }, 
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "idle1"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "walk"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                false
+                            ], 
+                            "sub_type": "32fc2eb04e1d11ee86f930d042e90e85"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 168022018000003, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 168022018000001, 
+                    "enable": true, 
+                    "event_type": "GAME_ELAPSE_REPEAT_BY_FRAME"
+                }
+            ], 
+            "group_id": 134276744, 
+            "is_conf": true, 
+            "p_trigger_id": 2013515777, 
+            "trigger_id": 168022018, 
+            "trigger_name": "\u952e\u76d8\u63a7\u5236\u6bcf\u5e27\u79fb\u52a8", 
+            "valid": true
+        }, 
+        "2013515777": {
+            "action": [
+                {
+                    "action_type": "SELECT_UNIT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ROLE_BY_INT"
+                        }, 
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "CUR_UNIT"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2013515777000002, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_ALL_GAME_FUNC_ENABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ROLE_BY_INT"
+                        }, 
+                        {
+                            "arg_type": 100253, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2013515777000003, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_ALL_GAME_FUNC_ENABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ROLE_BY_INT"
+                        }, 
+                        {
+                            "arg_type": 100253, 
+                            "args_list": [
+                                9
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2013515777000007, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_ALL_GAME_FUNC_ENABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ROLE_BY_INT"
+                        }, 
+                        {
+                            "arg_type": 100253, 
+                            "args_list": [
+                                10
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2013515777000018, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_ALL_GAME_FUNC_ENABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ROLE_BY_INT"
+                        }, 
+                        {
+                            "arg_type": 100253, 
+                            "args_list": [
+                                11
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2013515777000029, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_ALL_GAME_FUNC_ENABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ROLE_BY_INT"
+                        }, 
+                        {
+                            "arg_type": 100253, 
+                            "args_list": [
+                                12
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2013515777000040, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_ALL_GAME_FUNC_ENABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ROLE_BY_INT"
+                        }, 
+                        {
+                            "arg_type": 100253, 
+                            "args_list": [
+                                13
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2013515777000051, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_UNIT_ALARM_RANGE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "CUR_UNIT"
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                0.0
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2013515777000004, 
+                    "enable": true
+                }, 
+                168022018
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 2013515777000001, 
+                    "enable": true, 
+                    "event_type": "UNIT_BORN"
+                }
+            ], 
+            "group_id": 134276744, 
+            "p_trigger_id": null, 
+            "trigger_id": 2013515777, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        2013515777, 
+                        "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                    ]
+                }
+            ], 
+            "key": 134276744, 
+            "name": "134276744"
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                168022018, 
+                "\u952e\u76d8\u63a7\u5236\u6bcf\u5e27\u79fb\u52a8"
+            ]
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Realism/Fx_Skill/Ice/Ice_008_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134236390, 
+    "name": "\u5bd2\u51b0\u51b2\u51fb\u5b50\u5f39"
+}

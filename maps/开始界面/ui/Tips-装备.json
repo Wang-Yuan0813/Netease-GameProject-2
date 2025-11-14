@@ -1,0 +1,50 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "anchor": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    1.0
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "name": "\u88c5\u5907\u8bf4\u660e\u63a7\u4ef6", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    915.0, 
+                    645.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    47.6563, 
+                    59.7222
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "ec72cceb-49c9-443e-8ca8-f4a142e4e3bc"
+        }
+    ], 
+    "name": "Tips-\u88c5\u5907", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "9981be02-9702-46cd-a628-4219632ca38a", 
+    "visible": true, 
+    "zorder": 501
+}

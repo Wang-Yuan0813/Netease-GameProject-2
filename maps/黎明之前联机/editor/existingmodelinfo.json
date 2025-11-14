@@ -1,0 +1,210 @@
+[
+ {
+  "__tuple__": true, 
+  "items": [
+   10000, 
+   "\u73a9\u5bb61\u521b\u5efa\u533a\u57df", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10001, 
+   "\u73a9\u5bb62\u521b\u5efa\u533a\u57df", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10002, 
+   "\u73a9\u5bb63\u521b\u5efa\u533a\u57df", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10003, 
+   "\u73a9\u5bb64\u521b\u5efa\u533a\u57df", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10005, 
+   "\u5175\u79cd\u51fa\u751f\u70b91", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10006, 
+   "\u5175\u79cd\u51fa\u751f\u70b92", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10007, 
+   "\u5175\u79cd\u51fa\u751f\u70b93", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10008, 
+   "\u5175\u79cd\u51fa\u751f\u70b94", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10009, 
+   "boss\u751f\u6210\u533a\u57df", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10017, 
+   "\u57fa\u5730\u751f\u6210\u533a\u57df1", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10018, 
+   "\u57fa\u5730\u751f\u6210\u533a\u57df2", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10019, 
+   "\u57fa\u5730\u751f\u6210\u533a\u57df3", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10020, 
+   "\u57fa\u5730\u751f\u6210\u533a\u57df4", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10023, 
+   "\u7ad9\u573aboss\u51fa\u602a\u533a\u57df1", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10024, 
+   "\u7ad9\u573aboss\u51fa\u602a\u533a\u57df2", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10025, 
+   "\u7ad9\u573aboss\u51fa\u602a\u533a\u57df3", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10026, 
+   "\u7ad9\u573aboss\u51fa\u602a\u533a\u57df4", 
+   4096
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10027, 
+   "\u73a9\u5bb61\u5175\u79cd\u573a\u666fUI\u4f4d\u7f6e", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10031, 
+   "\u73a9\u5bb62\u5175\u79cd\u573a\u666fUI\u4f4d\u7f6e", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10032, 
+   "\u73a9\u5bb63\u5175\u79cd\u573a\u666fUI\u4f4d\u7f6e", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10033, 
+   "\u73a9\u5bb64\u5175\u79cd\u573a\u666fUI\u4f4d\u7f6e", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "\u521d\u59cb\u955c\u5934", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10011, 
+   "\u73a9\u5bb61\u955c\u5934", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10012, 
+   "\u73a9\u5bb62\u955c\u5934", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10013, 
+   "\u73a9\u5bb63\u955c\u5934", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10014, 
+   "\u73a9\u5bb64\u955c\u5934", 
+   32768
+  ]
+ }
+]

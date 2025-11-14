@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Skill/Ballistic/Ballistic_skill_07_02_01_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134246604, 
+    "name": "\u6d77\u5996\u4e4b\u738b-\u6d77\u5996\u65a9"
+}

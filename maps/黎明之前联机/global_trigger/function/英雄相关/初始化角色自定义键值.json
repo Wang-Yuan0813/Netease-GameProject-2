@@ -1,0 +1,35 @@
+{
+    "action": [], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "将当前玩家{当前玩家}的角色单位{当前单位}自定义键值初始化。", 
+    "func_id": "15c9d2c011d111ef9c4430d042e4da8c", 
+    "func_name": "初始化角色自定义键值", 
+    "func_param_list": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "当前玩家", 
+                true
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "当前单位", 
+                true
+            ]
+        }
+    ], 
+    "group_id": "BPgFzxGUEe+qmjDQQuTajF", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 2011062359, 
+    "trigger_name": "初始化角色自定义键值", 
+    "valid": true
+}

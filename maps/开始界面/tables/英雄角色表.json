@@ -1,0 +1,37 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "\u89d2\u8272\u7f16\u53f7", 
+                "\u5355\u4f4d\u7c7b\u578b", 
+                "\u662f\u5426\u4f7f\u7528\u8fc7"
+            ], 
+            [
+                "int", 
+                "unit_type", 
+                "bool"
+            ], 
+            [
+                "1", 
+                134274023, 
+                "false"
+            ], 
+            [
+                "2", 
+                134263929, 
+                "false"
+            ], 
+            [
+                "3", 
+                134253491, 
+                "false"
+            ]
+        ], 
+        "key": [
+            0
+        ]
+    }, 
+    "table_type": 0, 
+    "tid": "69ebe5c7-1146-4e3d-9a76-6aae6e75eb2a"
+}

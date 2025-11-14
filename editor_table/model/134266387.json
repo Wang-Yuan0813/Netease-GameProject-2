@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Realism/Fx_Skill/Line/Line_Eff_beam_v01_copy_1", 
+    "is_beam_effect": true, 
+    "meshes": [], 
+    "model_id": 134266387, 
+    "name": "\u96f7\u7535\u5b50\u5f39\u94fe\u63a5"
+}

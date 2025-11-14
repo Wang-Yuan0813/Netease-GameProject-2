@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Skill/Knife/Knife_5072_skill_01_03_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134251190, 
+    "name": "\u8718\u86db\u5973\u5996-\u6b7b\u4ea1\u5c04\u7ebf"
+}

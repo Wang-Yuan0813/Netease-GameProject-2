@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 0.899999976, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Common/Buff/Buff_buff_plague_01_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134255238, 
+    "name": "\u55b7\u6c14\u5175\u653b\u51fb\u7279\u6548"
+}

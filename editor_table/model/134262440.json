@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Overseas/Fx_Skill/Shadow/Shadow_overseas_900063_ability2_a0001_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134262440, 
+    "name": "\u8718\u86db\u5973\u5996-\u6293\u53d6\u524d\u63d0\u793a"
+}

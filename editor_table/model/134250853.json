@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Realism/Fx_Skill/Fire/Fire_X1_zhouyu_fhlying_a0001_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134250853, 
+    "name": "\u5730\u706b\u5b50\u5f39\u707c\u70e7"
+}

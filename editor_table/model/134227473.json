@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 5.0, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Ui/Ui_4001_skill_03_01_es2_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134227473, 
+    "name": "\u6606\u866b\u6218\u58eb-\u9707\u51fb\u6307\u793a\u5668"
+}

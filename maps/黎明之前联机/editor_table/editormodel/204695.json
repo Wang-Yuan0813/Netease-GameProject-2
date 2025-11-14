@@ -1,0 +1,32 @@
+{
+    "describe": 1295400416, 
+    "editor_res": false, 
+    "key": 204695, 
+    "map_name": "X1t4", 
+    "model_id": 504324, 
+    "name": 1699680885, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Mob", 
+            "code_Chinese style", 
+            "code_Scorpion", 
+            "code_Warrior", 
+            "code_Green", 
+            "P3(\u4e09\u56fd\u7cfb\u5217)"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/204695", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Monster", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_204695"
+}

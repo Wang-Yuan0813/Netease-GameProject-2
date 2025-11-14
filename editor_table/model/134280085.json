@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Skill/Ballistic/Ballistic_pet_trailling_20_02_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134280085, 
+    "name": "\u9ec4\u91d1\u9f99\u5934"
+}

@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 0.399999999, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Common/Hit/Hit_hit_common_02_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134244494, 
+    "name": "\u9ec4\u8272\u53d7\u51fb\u5149\u6548-\u65e0\u97f3\u6548"
+}

@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 2.295000001, 
+    "effect_path": "Fx_Effect/Gwsmt/Fx_Skill/Shadow/Shadow_Gwsmt_sxfsc_001_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134248077, 
+    "name": "\u94c1\u62f3\u6218\u7532\u8303\u56f4\u4f24\u5bb3\u7279\u6548"
+}

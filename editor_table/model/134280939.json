@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 2.6166666696666665, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Common/Back/Back_level_up_01_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134280939, 
+    "name": "\u82f1\u96c4\u66f4\u6362\u5149\u6548"
+}

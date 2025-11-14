@@ -1,0 +1,63 @@
+{
+    "action": [
+        {
+            "action_type": "DISPLAY_INFO_TO_PLAYER", 
+            "args_list": [
+                {
+                    "arg_type": 100027, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "PLAYER_GROUP", 
+                                "在线玩家组"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 14
+                }, 
+                {
+                    "arg_type": 100003, 
+                    "args_list": [
+                        "游戏结束"
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        false
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1126113379000008, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 100238, 
+                    "args_list": [
+                        1757760656
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1126113379000001, 
+            "enable": true, 
+            "event_type": "RECEIVE_CUSTOM_EVENT"
+        }
+    ], 
+    "group_id": "+X3cAMQQEe6LlGwkCM0y6A", 
+    "p_trigger_id": null, 
+    "trigger_id": 1126113379, 
+    "trigger_name": "游戏失败", 
+    "valid": true
+}

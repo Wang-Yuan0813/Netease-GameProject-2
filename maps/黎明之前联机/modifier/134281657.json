@@ -1,0 +1,151 @@
+{
+    "local_variable": {
+        "2015191041": {
+            "variable_dict": {
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "2015191041": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PLAYER", 
+                                        "\u5f53\u524d\u73a9\u5bb6", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "MODIFIER_OWNER"
+                                }
+                            ], 
+                            "sub_type": "OWNER_PLAYER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2015191041000010, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "ROLE_CHANGE_RES", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "PLAYER", 
+                                        "\u5f53\u524d\u73a9\u5bb6", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
+                        {
+                            "arg_type": 100037, 
+                            "args_list": [
+                                "zygrMKyIEe6pl2wkCM0y6K"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100011, 
+                                    "args_list": [
+                                        "896e7d8a-935b-4d6d-bc75-4e2c222d714d"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "\u4eba\u53e3\u4e0a\u9650\u589e\u52a0"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_INTEGER_TABLE_VAR_1D"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2015191041000020, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "REMOVE_BUFF_INS", 
+                    "args_list": [
+                        {
+                            "arg_type": 100076, 
+                            "args_list": [], 
+                            "sub_type": "GET_MODIFIER_FROM_EVENT"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2015191041000006, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 2015191041000001, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
+            "group_id": 134281657, 
+            "p_trigger_id": null, 
+            "trigger_id": 2015191041, 
+            "trigger_name": "\u5e94\u7528\u6548\u679c", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        2015191041, 
+                        "\u5e94\u7528\u6548\u679c"
+                    ]
+                }
+            ], 
+            "key": 134281657, 
+            "name": "134281657"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

@@ -1,0 +1,713 @@
+{
+    "local_variable": {
+        "57188383": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u62a4\u7532\u503c": 0.0, 
+                    "\u653b\u51fb\u529b": 0.0, 
+                    "\u66b4\u51fb\u4f24\u5bb3": 0.0, 
+                    "\u66b4\u51fb\u7387": 0.0, 
+                    "\u751f\u547d\u503c": 0.0, 
+                    "\u79fb\u52a8\u901f\u5ea6": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "\u5f53\u524d\u69fd\u4f4d": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5c5e\u6027\u503c\u5b57\u7b26\u4e32\u5206\u9694": "", 
+                    "\u5c5e\u6027\u7c7b\u578b\u5b57\u7b26\u4e32\u5206\u9694": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5c5e\u6027\u503c\u5b57\u7b26\u4e32\u5206\u9694": 10, 
+                "\u5c5e\u6027\u7c7b\u578b\u5b57\u7b26\u4e32\u5206\u9694": 10, 
+                "\u5f53\u524d\u69fd\u4f4d": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u62a4\u7532\u503c": 0, 
+                "\u653b\u51fb\u529b": 0, 
+                "\u66b4\u51fb\u4f24\u5bb3": 0, 
+                "\u66b4\u51fb\u7387": 0, 
+                "\u751f\u547d\u503c": 0, 
+                "\u79fb\u52a8\u901f\u5ea6": 0
+            }
+        }, 
+        "174628936": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
+        "191406112": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u4e0d\u6e05\u7a7a\u5c5e\u6027\u680f\u5185\u5bb9": false
+                }, 
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u88c5\u5907\u540d\u79f0": ""
+                }, 
+                "UI_COMP": {
+                    "\u5f53\u524d\u5217": "", 
+                    "\u5f53\u524d\u884c": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u4e0d\u6e05\u7a7a\u5c5e\u6027\u680f\u5185\u5bb9": 0, 
+                "\u5f53\u524d\u5217": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u5f53\u524d\u884c": 0, 
+                "\u88c5\u5907\u540d\u79f0": 0
+            }
+        }, 
+        "208183315": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }, 
+        "241737749": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "\u5c5e\u6027\u4e2a\u6570": 0, 
+                    "\u5c5e\u6027\u6700\u7ec8\u503c": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5f53\u524d\u88c5\u5907\u7684\u5c5e\u6027\u6570\u7ec4": "", 
+                    "\u6700\u7ec8\u5c5e\u6027\u503c-\u5b57\u7b26\u4e32": "", 
+                    "\u83b7\u53d6\u7684\u6b66\u5668\u540d\u79f0": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5c5e\u6027\u4e2a\u6570": 0, 
+                "\u5c5e\u6027\u6700\u7ec8\u503c": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u5f53\u524d\u88c5\u5907\u7684\u5c5e\u6027\u6570\u7ec4": 10, 
+                "\u6700\u7ec8\u5c5e\u6027\u503c-\u5b57\u7b26\u4e32": 0, 
+                "\u83b7\u53d6\u7684\u6b66\u5668\u540d\u79f0": 0
+            }
+        }, 
+        "241737750": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u8be5\u7c7b\u578b\u5df2\u88ab\u88c5\u5907": false
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "\u6307\u5b9a\u69fd\u4f4d": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5f53\u524d\u88c5\u5907\u7c7b\u578b": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u5f53\u524d\u88c5\u5907\u7c7b\u578b": 0, 
+                "\u6307\u5b9a\u69fd\u4f4d": 0, 
+                "\u8be5\u7c7b\u578b\u5df2\u88ab\u88c5\u5907": 0
+            }
+        }, 
+        "241737830": {
+            "variable_dict": {
+                "STRING": {
+                    "\u6307\u4ee4\u4e32": "", 
+                    "\u6307\u4ee4\u5206\u9694\u6570\u7ec4": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u6307\u4ee4\u4e32": 0, 
+                "\u6307\u4ee4\u5206\u9694\u6570\u7ec4": 10
+            }
+        }, 
+        "526950428": {
+            "variable_dict": {
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }, 
+        "538509367": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }, 
+        "694722639": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "\u5217\u53f7": 0, 
+                    "\u884c\u53f7": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5217\u53f7": 0, 
+                "\u884c\u53f7": 0
+            }
+        }, 
+        "912826395": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u662f\u5426\u6709\u6570\u503c\u4f20\u5165": false
+                }, 
+                "STRING": {
+                    "\u539f\u6587\u672c\u5185\u5bb9": "", 
+                    "\u5c5e\u6027\u540d\u79f0": "", 
+                    "\u6570\u503c": "", 
+                    "\u989c\u8272\u7f16\u53f7": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u539f\u6587\u672c\u5185\u5bb9": 0, 
+                "\u5c5e\u6027\u540d\u79f0": 0, 
+                "\u6570\u503c": 0, 
+                "\u662f\u5426\u6709\u6570\u503c\u4f20\u5165": 0, 
+                "\u989c\u8272\u7f16\u53f7": 0
+            }
+        }, 
+        "1013489684": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u6307\u5b9a\u69fd\u4f4d": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u6307\u5b9a\u69fd\u4f4d": 0
+            }
+        }, 
+        "1114152993": {
+            "variable_dict": {
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }, 
+        "1320550468": {
+            "variable_dict": {
+                "FLOAT": {
+                    "x_pos": 0.0, 
+                    "y_pos": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "row": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "row": 0, 
+                "x_pos": 0, 
+                "y_pos": 0
+            }
+        }, 
+        "1332256779": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u6267\u884c\u6210\u529f": false
+                }, 
+                "FLOAT": {
+                    "\u4e34\u65f6\u5c5e\u6027\u503c\u6570\u7ec4": 0.0, 
+                    "\u57fa\u7840\u5c5e\u6027\u503c\u6570\u7ec4": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0, 
+                    "\u53c2\u6570\u6570\u91cf": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u6307\u4ee4\u5206\u5272\u6570\u7ec4": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0, 
+                "\u4e34\u65f6\u5c5e\u6027\u503c\u6570\u7ec4": 10, 
+                "\u53c2\u6570\u6570\u91cf": 0, 
+                "\u57fa\u7840\u5c5e\u6027\u503c\u6570\u7ec4": 10, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u6267\u884c\u6210\u529f": 0, 
+                "\u6307\u4ee4\u5206\u5272\u6570\u7ec4": 10
+            }
+        }, 
+        "1449697295": {
+            "variable_dict": {
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }, 
+        "1550360594": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u5b58\u6863\u603b\u69fd\u4f4d\u6570\u91cf": 0, 
+                    "\u5df2\u7528\u69fd\u4f4d\u6570\u91cf": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5b58\u6863\u603b\u69fd\u4f4d\u6570\u91cf": 0, 
+                "\u5df2\u7528\u69fd\u4f4d\u6570\u91cf": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }, 
+        "1618677815": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u4e34\u65f6\u5c5e\u6027\u503c\u6570\u7ec4": 0.0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u8be5\u88c5\u5907\u7c7b\u578b": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0, 
+                "\u4e34\u65f6\u5c5e\u6027\u503c\u6570\u7ec4": 10, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u8be5\u88c5\u5907\u7c7b\u578b": 0
+            }
+        }, 
+        "1684578321": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0, 
+                    "\u884c\u6570": 0, 
+                    "\u8868\u683c\u603b\u957f\u5ea6": 0
+                }, 
+                "TABLE": {
+                    "\u5f85\u64cd\u4f5c\u8868\u683c": null
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0, 
+                "\u5f85\u64cd\u4f5c\u8868\u683c": 0, 
+                "\u884c\u6570": 0, 
+                "\u8868\u683c\u603b\u957f\u5ea6": 0
+            }
+        }, 
+        "1785241614": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u6700\u5927\u503c": 0.0, 
+                    "\u6700\u5c0f\u503c": 0.0
+                }, 
+                "INTEGER": {
+                    "\u6700\u7ec8\u503c": 0
+                }, 
+                "STRING": {
+                    "\u5f53\u524d\u5c5e\u6027": "", 
+                    "\u5f53\u524d\u88c5\u5907": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u5c5e\u6027": 0, 
+                "\u5f53\u524d\u88c5\u5907": 0, 
+                "\u6700\u5927\u503c": 0, 
+                "\u6700\u5c0f\u503c": 0, 
+                "\u6700\u7ec8\u503c": 0
+            }
+        }, 
+        "1869127709": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "\u6570\u7ec4\u957f\u5ea6": 0, 
+                    "\u88c5\u5907\u69fd\u4f4d": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5c5e\u6027\u503c\u6570\u7ec4": "", 
+                    "\u5c5e\u6027\u540d\u79f0\u6570\u7ec4": "", 
+                    "\u5c5e\u6027\u8bf4\u660e\u6587\u672c\u6846\u5185\u5bb9": "", 
+                    "\u88c5\u5907\u540d\u79f0": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5c5e\u6027\u503c\u6570\u7ec4": 10, 
+                "\u5c5e\u6027\u540d\u79f0\u6570\u7ec4": 10, 
+                "\u5c5e\u6027\u8bf4\u660e\u6587\u672c\u6846\u5185\u5bb9": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u6570\u7ec4\u957f\u5ea6": 0, 
+                "\u88c5\u5907\u540d\u79f0": 0, 
+                "\u88c5\u5907\u69fd\u4f4d": 0
+            }
+        }, 
+        "1883484217": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }, 
+        "1969790992": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u5f53\u524d\u88c5\u5907\u54c1\u8d28": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u88c5\u5907\u540d\u79f0": "", 
+                    "\u88c5\u5907\u5c5e\u6027\u503c": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u5f53\u524d\u88c5\u5907\u54c1\u8d28": 0, 
+                "\u88c5\u5907\u540d\u79f0": 0, 
+                "\u88c5\u5907\u5c5e\u6027\u503c": 0
+            }
+        }, 
+        "1986568218": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u6e05\u7a7a\u5c5e\u6027\u680f\u5185\u5bb9": false
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u88c5\u5907\u540d\u79f0": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u6e05\u7a7a\u5c5e\u6027\u680f\u5185\u5bb9": 0, 
+                "\u88c5\u5907\u540d\u79f0": 0
+            }
+        }, 
+        "1991639111": {
+            "variable_dict": {
+                "FLOAT": {
+                    "x_pos": 0.0, 
+                    "y_pos": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "x_pos": 0, 
+                "y_pos": 0
+            }
+        }, 
+        "2003345431": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u662f\u5426\u663e\u793a": false
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "\u5217\u53f7": 0, 
+                    "\u6570\u7ec4\u957f\u5ea6": 0, 
+                    "\u69fd\u4f4d\u53f7": 0, 
+                    "\u884c\u53f7": 0, 
+                    "\u88c5\u5907\u69fd\u4f4d": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u5c5e\u6027\u503c\u6570\u7ec4": "", 
+                    "\u5c5e\u6027\u540d\u79f0\u6570\u7ec4": "", 
+                    "\u5c5e\u6027\u663e\u793a\u5b57\u7b26\u4e32": "", 
+                    "\u88c5\u5907\u540d\u79f0": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "\u65b0\u589e\u5143\u4ef6": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5217\u53f7": 0, 
+                "\u5c5e\u6027\u503c\u6570\u7ec4": 10, 
+                "\u5c5e\u6027\u540d\u79f0\u6570\u7ec4": 10, 
+                "\u5c5e\u6027\u663e\u793a\u5b57\u7b26\u4e32": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u6570\u7ec4\u957f\u5ea6": 0, 
+                "\u65b0\u589e\u5143\u4ef6": 0, 
+                "\u662f\u5426\u663e\u793a": 0, 
+                "\u69fd\u4f4d\u53f7": 0, 
+                "\u884c\u53f7": 0, 
+                "\u88c5\u5907\u540d\u79f0": 0, 
+                "\u88c5\u5907\u69fd\u4f4d": 0
+            }
+        }, 
+        "2003345438": {
+            "variable_dict": {
+                "FLOAT": {}, 
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {}
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0
+            }
+        }, 
+        "2009415743": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u9009\u53d6\u7684\u82f1\u96c4\u7f16\u53f7": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u9009\u53d6\u7684\u82f1\u96c4\u7f16\u53f7": 0
+            }
+        }, 
+        "2087231513": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "\u6570\u91cf": 0, 
+                    "\u88c5\u5907\u7f16\u53f7": 0
+                }, 
+                "PLAYER": {
+                    "\u5f53\u524d\u73a9\u5bb6": 0
+                }, 
+                "STRING": {
+                    "\u88c5\u5907\u540d\u79f0": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5f53\u524d\u73a9\u5bb6": 0, 
+                "\u6570\u91cf": 0, 
+                "\u88c5\u5907\u540d\u79f0": 0, 
+                "\u88c5\u5907\u7f16\u53f7": 0
+            }
+        }, 
+        "2104008780": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u5217\u53f7": 0, 
+                    "\u7269\u54c1\u69fd\u4f4d\u7f16\u53f7": 0, 
+                    "\u884c\u53f7": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5217\u53f7": 0, 
+                "\u7269\u54c1\u69fd\u4f4d\u7f16\u53f7": 0, 
+                "\u884c\u53f7": 0
+            }
+        }
+    }, 
+    "variable_dict": {
+        "AUDIO_KEY": {}, 
+        "BOOLEAN": {
+            "\u73a9\u5bb6\u51c6\u5907\u5c31\u7eea": false
+        }, 
+        "FLOAT": {}, 
+        "INTEGER": {
+            "\u51c6\u5907\u597d\u7684\u73a9\u5bb6\u6570\u91cf": 0, 
+            "\u73a9\u5bb6\u6570\u91cf": 0, 
+            "\u73a9\u5bb6\u88c5\u5907\u62e5\u6709\u6570\u91cf": 0, 
+            "\u73a9\u5bb6\u9009\u53d6\u7684\u82f1\u96c4\u7f16\u53f7": 0, 
+            "\u73a9\u5bb6\u9009\u53d6\u88c5\u5907\u69fd\u4f4d": 0, 
+            "\u88c5\u5907\u4ed3\u5e93\u69fd\u4f4d\u603b\u6570": 30
+        }, 
+        "ITEM_NAME": {}, 
+        "NEW_TIMER": {
+            "\u6ce2\u6b21\u5012\u8ba1\u65f6\u8ba1\u65f6\u5668": -1
+        }, 
+        "RANDOM_POOL": {}, 
+        "ROUND_AREA": {}, 
+        "TABLE": {
+            "\u73a9\u5bb6\u88c5\u5907\u57fa\u7840\u52a0\u6210\u8868\u683c": null, 
+            "\u73a9\u5bb6\u88c5\u5907\u5b58\u6863\u8868\u683c": null
+        }, 
+        "TEXTURE": {
+            "\u5012\u8ba1\u65f6\u56fe\u7247": 0
+        }, 
+        "UI_PREFAB_INSTANCE": {
+            "\u73a9\u5bb6\u5f53\u524d\u88c5\u5907\u5c5e\u6027\u6846\u5143\u4ef6\u6570\u7ec4": ""
+        }, 
+        "UNIT_ENTITY": {}, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u9009\u53d6\u88c5\u5907\u69fd\u4f4d", 
+                "\u73a9\u5bb6\u9009\u53d6\u88c5\u5907\u69fd\u4f4d"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u51c6\u5907\u5c31\u7eea", 
+                "\u73a9\u5bb6\u51c6\u5907\u5c31\u7eea"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6ce2\u6b21\u5012\u8ba1\u65f6\u8ba1\u65f6\u5668", 
+                "\u6ce2\u6b21\u5012\u8ba1\u65f6\u8ba1\u65f6\u5668"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u88c5\u5907\u62e5\u6709\u6570\u91cf", 
+                "\u73a9\u5bb6\u88c5\u5907\u62e5\u6709\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u5f53\u524d\u88c5\u5907\u5c5e\u6027\u6846\u5143\u4ef6\u6570\u7ec4", 
+                "\u73a9\u5bb6\u5f53\u524d\u88c5\u5907\u5c5e\u6027\u6846\u5143\u4ef6\u6570\u7ec4"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5012\u8ba1\u65f6\u56fe\u7247", 
+                "\u5012\u8ba1\u65f6\u56fe\u7247"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u6570\u91cf", 
+                "\u73a9\u5bb6\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u88c5\u5907\u5b58\u6863\u8868\u683c", 
+                "\u73a9\u5bb6\u88c5\u5907\u5b58\u6863\u8868\u683c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u88c5\u5907\u4ed3\u5e93\u69fd\u4f4d\u603b\u6570", 
+                "\u88c5\u5907\u4ed3\u5e93\u69fd\u4f4d\u603b\u6570"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51c6\u5907\u597d\u7684\u73a9\u5bb6\u6570\u91cf", 
+                "\u51c6\u5907\u597d\u7684\u73a9\u5bb6\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u88c5\u5907\u57fa\u7840\u52a0\u6210\u8868\u683c", 
+                "\u73a9\u5bb6\u88c5\u5907\u57fa\u7840\u52a0\u6210\u8868\u683c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u9009\u53d6\u7684\u82f1\u96c4\u7f16\u53f7", 
+                "\u73a9\u5bb6\u9009\u53d6\u7684\u82f1\u96c4\u7f16\u53f7"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "\u5012\u8ba1\u65f6\u56fe\u7247": 10, 
+        "\u51c6\u5907\u597d\u7684\u73a9\u5bb6\u6570\u91cf": 0, 
+        "\u6ce2\u6b21\u5012\u8ba1\u65f6\u8ba1\u65f6\u5668": 0, 
+        "\u73a9\u5bb6\u51c6\u5907\u5c31\u7eea": 10, 
+        "\u73a9\u5bb6\u5f53\u524d\u88c5\u5907\u5c5e\u6027\u6846\u5143\u4ef6\u6570\u7ec4": 10, 
+        "\u73a9\u5bb6\u6570\u91cf": 0, 
+        "\u73a9\u5bb6\u88c5\u5907\u57fa\u7840\u52a0\u6210\u8868\u683c": 10, 
+        "\u73a9\u5bb6\u88c5\u5907\u5b58\u6863\u8868\u683c": 10, 
+        "\u73a9\u5bb6\u88c5\u5907\u62e5\u6709\u6570\u91cf": 10, 
+        "\u73a9\u5bb6\u9009\u53d6\u7684\u82f1\u96c4\u7f16\u53f7": 10, 
+        "\u73a9\u5bb6\u9009\u53d6\u88c5\u5907\u69fd\u4f4d": 10, 
+        "\u88c5\u5907\u4ed3\u5e93\u69fd\u4f4d\u603b\u6570": 0
+    }
+}

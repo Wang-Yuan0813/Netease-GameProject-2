@@ -1,0 +1,69 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "2124873729": {
+            "action": [
+                {
+                    "action_type": "REMOVE_BUFF_TYPE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100046, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100076, 
+                                    "args_list": [], 
+                                    "sub_type": "GET_MODIFIER_FROM_EVENT"
+                                }
+                            ], 
+                            "sub_type": "GET_MODIFIER_ENTITY_METATYPE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2124873729000005, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 2124873729000001, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
+            "group_id": 134265535, 
+            "p_trigger_id": null, 
+            "trigger_id": 2124873729, 
+            "trigger_name": "\u7a7a", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        2124873729, 
+                        "\u7a7a"
+                    ]
+                }
+            ], 
+            "key": 134265535, 
+            "name": "134265535"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

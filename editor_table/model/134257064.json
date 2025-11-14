@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Skill/Water/Water_5053_skill_pet_02_vanish_copy_1", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134257064, 
+    "name": "\u5bfc\u7535\u9ecf\u6db2-\u9644\u7740\u6548\u679c"
+}

@@ -1,0 +1,170 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "210513923": {
+            "action": [
+                {
+                    "action_type": "ADD_MODIFIER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100046, 
+                            "args_list": [
+                                134240534
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 210513923000104, 
+                    "enable": true, 
+                    "op_arg": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100014, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100011, 
+                                    "args_list": [
+                                        "15781790-43bb-4332-bdda-588090a5182a"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "\u7206\u70b8"
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_ABILITY_TABLE_VAR_1D"
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "4dd8ef0d-b406-47cc-9dd6-c845bbcf491e"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "op_arg_enable": [
+                        true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
+                        true
+                    ]
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "KILLER_UNIT"
+                        }, 
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }
+                    ], 
+                    "condition_type": "IS_ENEMY_RELATION", 
+                    "element_id": 210513923000085, 
+                    "enable": true
+                }
+            ], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "MODIFIER_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100007, 
+                            "args_list": [
+                                "ET_BEFORE_UNIT_DIE"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 210513923000004, 
+                    "enable": true, 
+                    "event_type": "SPECIAL_UNIT_EVENT"
+                }
+            ], 
+            "group_id": 134254799, 
+            "is_conf": true, 
+            "p_trigger_id": 841322498, 
+            "trigger_id": 210513923, 
+            "trigger_name": "\u6b7b\u4ea1\u89e6\u53d1", 
+            "valid": true
+        }, 
+        "841322498": {
+            "action": [
+                210513923
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 841322498000001, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
+            "group_id": 134254799, 
+            "p_trigger_id": null, 
+            "trigger_id": 841322498, 
+            "trigger_name": "\u5e94\u7528\u6548\u679c", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        841322498, 
+                        "\u5e94\u7528\u6548\u679c"
+                    ]
+                }
+            ], 
+            "key": 134254799, 
+            "name": "134254799"
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                210513923, 
+                "\u6b7b\u4ea1\u89e6\u53d1"
+            ]
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

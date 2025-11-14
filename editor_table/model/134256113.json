@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 10.150000006, 
+    "effect_path": "Fx_Effect/DM2/Fx_Skill/Soil/Soil_DM2_baozou_smoke_b0002_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134256113, 
+    "name": "\u70df\u96fe\u5b50\u5f39\u7206\u70b8"
+}

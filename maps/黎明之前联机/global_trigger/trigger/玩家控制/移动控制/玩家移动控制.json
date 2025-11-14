@@ -1,0 +1,206 @@
+{
+    "action": [
+        {
+            "action_type": "CALL_TRIGGER_FUNC", 
+            "args_list": [
+                {
+                    "arg_type": 100177, 
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [], 
+                                    "sub_type": "TRIGGER_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_ID_NUMBER"
+                        }
+                    ], 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "9441fa11f75711ec8a6aa4bb6d41b622"
+                }
+            ], 
+            "bp": false, 
+            "call_rt_arg_idxes": [], 
+            "element_id": 1532542977000011, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "BOOLEAN", 
+                                "当前玩家能否控制角色"
+                            ]
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [], 
+                                    "sub_type": "TRIGGER_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_ID_NUMBER"
+                        }
+                    ], 
+                    "sub_type": "VARIABLE"
+                }, 
+                {
+                    "arg_type": 100035, 
+                    "args_list": [
+                        "=="
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        true
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "condition_type": "BOOL_COMPARE", 
+            "element_id": 1532542977837331, 
+            "enable": true
+        }
+    ], 
+    "enabled": false, 
+    "event": [
+        [
+            1366315470, 
+            "this trigger is used to respond to the player's key press event, when the player presses the move key, the player's move state will be refreshed immediately", 
+            1532542977, 
+            "event_type"
+        ], 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        17
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1532542977000001, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        30
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1532542977000002, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        31
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1532542977000003, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        32
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1532542977000004, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        17
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1532542977000005, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_UP_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        30
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1532542977000006, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_UP_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        31
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1532542977000007, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_UP_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        32
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1532542977000008, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_UP_EVENT"
+        }
+    ], 
+    "group_id": "x9g5z7ttEe6tvWwkCM0y6L", 
+    "p_trigger_id": null, 
+    "trigger_id": 1532542977, 
+    "trigger_name": "玩家移动控制", 
+    "valid": true
+}

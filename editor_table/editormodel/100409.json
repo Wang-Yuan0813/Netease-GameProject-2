@@ -1,0 +1,436 @@
+{
+    "describe": 1882087899, 
+    "editor_res": false, 
+    "key": 100409, 
+    "model_id": 100409, 
+    "name": -83599770, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_Chinese style", 
+            "code_Monster", 
+            "code_Boss", 
+            "code_Strong", 
+            "code_Fairy", 
+            "code_Spider", 
+            "code_Purple"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/100409", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Boss", 
+    "select_effect_scale": 0.01, 
+    "size": 0.1, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "bip01 l hand", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack2": {
+            "__tuple__": true, 
+            "items": [
+                "attack2", 
+                "bip01 r hand", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack_01_01": {
+            "__tuple__": true, 
+            "items": [
+                "attack_01_01", 
+                "bip01 r hand", 
+                0.0205561351776, 
+                0.00533016204834, 
+                0.0204472601414, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack_01_02": {
+            "__tuple__": true, 
+            "items": [
+                "attack_01_02", 
+                "bip01 l hand", 
+                -0.00472480297089, 
+                0.0192344284058, 
+                0.0203780961037, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack_01_03_01": {
+            "__tuple__": true, 
+            "items": [
+                "attack_01_03_01", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack_01_04": {
+            "__tuple__": true, 
+            "items": [
+                "attack_01_04", 
+                "", 
+                0.0, 
+                0.164347000122, 
+                0.257586994171, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack_point_02": {
+            "__tuple__": true, 
+            "items": [
+                "attack_point_02", 
+                "bip01 l hand", 
+                -0.00229277133942, 
+                0.00503841400146, 
+                0.00898712873459, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "blood": {
+            "__tuple__": true, 
+            "items": [
+                "blood", 
+                "bip01 spine1", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "centroid": {
+            "__tuple__": true, 
+            "items": [
+                "centroid", 
+                "Scene Root", 
+                0.0, 
+                1.4, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "bip01 l foot", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "bip01 r foot", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_root": {
+            "__tuple__": true, 
+            "items": [
+                "fx_root", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_zhanqi": {
+            "__tuple__": true, 
+            "items": [
+                "fx_zhanqi", 
+                "bip01", 
+                -0.00595696926117, 
+                0.0987421035767, 
+                -0.0350320193555, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "bip01 l hand", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "bip01 r hand", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "bip01 head", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "bip01 spine1", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "s_d": {
+            "__tuple__": true, 
+            "items": [
+                "s_d", 
+                "", 
+                -0.000370000004768, 
+                0.01, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "s_s_1": {
+            "__tuple__": true, 
+            "items": [
+                "s_s_1", 
+                "", 
+                -0.000370000004768, 
+                0.01, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "s_s_2": {
+            "__tuple__": true, 
+            "items": [
+                "s_s_2", 
+                "", 
+                -0.000370000004768, 
+                0.01, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "s_s_3": {
+            "__tuple__": true, 
+            "items": [
+                "s_s_3", 
+                "", 
+                -0.000370000004768, 
+                0.01, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "s_t_1": {
+            "__tuple__": true, 
+            "items": [
+                "s_t_1", 
+                "", 
+                -0.000370000004768, 
+                0.01, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "s_t_2": {
+            "__tuple__": true, 
+            "items": [
+                "s_t_2", 
+                "", 
+                -0.000370000004768, 
+                0.01, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "s_t_3": {
+            "__tuple__": true, 
+            "items": [
+                "s_t_3", 
+                "", 
+                -0.000370000004768, 
+                0.01, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "shadow": {
+            "__tuple__": true, 
+            "items": [
+                "shadow", 
+                "", 
+                -0.000370000004768, 
+                0.03, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "bip01 head", 
+                -0.2, 
+                0.1, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                2.8, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                3.3, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "v": {
+            "__tuple__": true, 
+            "items": [
+                "v", 
+                "", 
+                -0.000370000004768, 
+                0.03, 
+                -0.00108999997377, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_100409"
+}

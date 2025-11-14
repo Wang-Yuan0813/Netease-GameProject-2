@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 1.5, 
+    "effect_path": "Fx_Effect/Realism/Fx_Skill/Knife/Knife_QL_skill_h_02_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134232304, 
+    "name": "\u65a9\u51fb\u7279\u6548"
+}

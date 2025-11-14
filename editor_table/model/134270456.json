@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Gwsmt/Fx_Skill/Ballistic/Ballistic_Gwsmt_xlj_c001_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134270456, 
+    "name": "\u6697\u661f\u5b50\u5f39"
+}

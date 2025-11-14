@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Overseas/Fx_Common/Buff/Buff_overseas_900068_ability2_b0002_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134255567, 
+    "name": "\u866b\u65cf-\u51cf\u901f\u6548\u679c"
+}

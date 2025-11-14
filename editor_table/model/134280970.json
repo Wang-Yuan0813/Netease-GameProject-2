@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 2.70000005, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Ui/Ui_warning_circle_01_es2_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134280970, 
+    "name": "\u6606\u866b\u6218\u58eb-\u53ec\u5524\u7279\u6548"
+}

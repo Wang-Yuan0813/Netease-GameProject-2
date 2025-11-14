@@ -1,0 +1,36 @@
+{
+    "ability_all": [
+        "\u7269\u54c1\u6280\u80fd", 
+        "system", 
+        "\u53cd\u5f39", 
+        "new_tag"
+    ], 
+    "editor_item": [
+        "\u7269\u653b", 
+        "\u7269\u5438", 
+        "\u653b\u51fb", 
+        "\u7269\u7a7f", 
+        "\u653b\u901f", 
+        "\u4e3b\u52a8", 
+        "\u6c14\u8840", 
+        "\u9632\u5fa1", 
+        "\u56de\u8840", 
+        "\u79fb\u901f", 
+        "\u66b4\u51fb"
+    ], 
+    "editor_unit": [
+        "\u57fa\u5730", 
+        "\u8fdc\u7a0b\u89d2\u8272", 
+        "\u8fd1\u6218\u89d2\u8272", 
+        "\u654c\u4eba\u5c0f\u602a", 
+        "\u91cd\u7532\u5175", 
+        "\u70ae\u8f66", 
+        "\u8fdc\u7a0b\u5175\u79cd", 
+        "\u8fd1\u6218\u5175\u79cd", 
+        "\u91ce\u602a", 
+        "\u590d\u6d3b\u5355\u4f4d"
+    ], 
+    "modifier_all": [
+        "\u7f81\u7eca"
+    ]
+}

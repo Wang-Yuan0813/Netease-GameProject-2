@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/OtherType/Fx_Skill/Ballistic/Ballistic_X1_cy_ltzn_a0001_red_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134252533, 
+    "name": "\u8718\u86db\u5973\u5996-\u86db\u7075\u4e4b\u706b\u62d6\u5c3e"
+}

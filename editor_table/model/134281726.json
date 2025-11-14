@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Skill/Water/Water_5120_skill_02_02_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134281726, 
+    "name": "\u6c34\u7262\u5f39\u9053"
+}

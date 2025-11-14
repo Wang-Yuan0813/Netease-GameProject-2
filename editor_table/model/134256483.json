@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Overseas/Fx_Skill/Ballistic/Ballistic_overseas_900081_ability3_b0002_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134256483, 
+    "name": "\u9b54\u9f99-\u666e\u901a\u653b\u51fb\u5f39\u9053"
+}

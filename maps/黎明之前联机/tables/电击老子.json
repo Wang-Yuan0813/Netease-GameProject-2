@@ -1,0 +1,55 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "Key", 
+                "Type", 
+                "Value", 
+                "Des"
+            ], 
+            [
+                "\u7535\u51fb\u4e2a\u6570", 
+                "int", 
+                "2", 
+                ""
+            ], 
+            [
+                "\u7535\u51fb\u8303\u56f4", 
+                "float", 
+                "400", 
+                ""
+            ], 
+            [
+                "\u7535\u51fb\u95f4\u9694", 
+                "float", 
+                "0.3", 
+                ""
+            ], 
+            [
+                "\u89e6\u53d1\u7535\u51fb\u653b\u51fb\u6b21\u6570", 
+                "int", 
+                "2", 
+                ""
+            ], 
+            [
+                "\u7535\u5f27\u89e6\u53d1\u95f4\u9694", 
+                "float", 
+                "2", 
+                ""
+            ], 
+            [
+                "\u7535\u5f27\u653b\u51fb\u4f24\u5bb3\u7cfb\u6570", 
+                "float", 
+                "0.5", 
+                ""
+            ]
+        ], 
+        "key": [
+            0
+        ], 
+        "kv_key_type": "str"
+    }, 
+    "table_type": 1, 
+    "tid": "7fe4ccec-a33c-456c-9d65-02c0e6cb7001"
+}

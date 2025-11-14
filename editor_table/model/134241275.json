@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Overseas/Fx_Common/Buff/Buff_overseas_900008_ability2_d0004_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134241275, 
+    "name": "\u62a4\u7532\u52a0\u6210buff"
+}

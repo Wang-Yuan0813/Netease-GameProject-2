@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "fx/com_fx/char_alert_01_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134252457, 
+    "name": "\u81ea\u7206\u98de\u866b\u53f9\u53f7"
+}

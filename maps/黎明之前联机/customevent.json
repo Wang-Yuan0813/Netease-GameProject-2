@@ -1,0 +1,191 @@
+{
+    "conf": {
+        "1047631215": [], 
+        "1086742372": [], 
+        "1102405758": [], 
+        "1264444602": [
+            [
+                "\u73a9\u5bb6\u7f16\u53f7", 
+                100002
+            ]
+        ], 
+        "1306538345": [], 
+        "1368257507": [
+            [
+                "\u6240\u5c5e\u73a9\u5bb6\u7f16\u53f7", 
+                100002
+            ]
+        ], 
+        "1468782027": [], 
+        "1472541583": [], 
+        "1640051643": [], 
+        "1667285011": [
+            [
+                "\u89e6\u53d1\u73a9\u5bb6", 
+                100025
+            ]
+        ], 
+        "1717932551": [], 
+        "1757760656": [], 
+        "1841731191": [], 
+        "1910918857": [], 
+        "2075991176": [], 
+        "2102905875": [
+            [
+                "\u662f\u5426\u4e3a\u5f00\u5c40", 
+                100001
+            ]
+        ], 
+        "2145505996": []
+    }, 
+    "group_info": [
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1667285011, 
+                        "\u6d4b\u8bd5\u4e8b\u4ef6"
+                    ]
+                }
+            ], 
+            "key": "BN6kTx1vEe+xgzDQQuTajI", 
+            "name": "\u6d4b\u8bd5"
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1102405758, 
+                "\u6e38\u620f\u5f00\u59cb"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1368257507, 
+                "\u73a9\u5bb6\u57fa\u5730\u88ab\u6467\u6bc1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1047631215, 
+                "\u6700\u7ec8BOSS\u6b7b\u4ea1"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1468782027, 
+                "\u521d\u59cb\u5316\u602a\u7269\u6389\u843d\u968f\u673a\u6c60"
+            ]
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        2075991176, 
+                        "\u6e38\u620f\u80dc\u5229"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1757760656, 
+                        "\u6e38\u620f\u5931\u8d25"
+                    ]
+                }
+            ], 
+            "key": "IaEFDw+REe+qfzDQQuTajC", 
+            "name": "\u6e38\u620f\u80dc\u5229\u6216\u5931\u8d25"
+        }, 
+        {
+            "group": [
+                {
+                    "group": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                1841731191, 
+                                "\u7f81\u7eca\u66f4\u65b0"
+                            ]
+                        }
+                    ], 
+                    "key": "4-jToRzdEe+pmTDQQuTajH", 
+                    "name": "\u7f81\u7eca\u4e8b\u4ef6"
+                }, 
+                {
+                    "group": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                1472541583, 
+                                "\u5934\u76ee\u51b2\u5854\u5f00\u59cb"
+                            ]
+                        }, 
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                1264444602, 
+                                "\u5934\u76ee\u51b2\u5854\u7ed3\u675f"
+                            ]
+                        }, 
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                1306538345, 
+                                "\u7ad9\u573aboss\u4e8b\u4ef6\u5f00\u59cb"
+                            ]
+                        }, 
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                1717932551, 
+                                "\u7ad9\u573aboss\u4e8b\u4ef6\u7ed3\u675f"
+                            ]
+                        }
+                    ], 
+                    "key": "jKheng7HEe+6OTDQQuTajG", 
+                    "name": "\u7279\u6b8a\u4e8b\u4ef6"
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1640051643, 
+                        "\u6d77\u5237\u9636\u6bb5\u5f00\u59cb"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1086742372, 
+                        "\u6d77\u5237\u9636\u6bb5\u7ed3\u675f"
+                    ]
+                }
+            ], 
+            "key": "bc0zIQ7HEe+TazDQQuTajK", 
+            "name": "\u6e38\u620f\u8fdb\u884c\u4e2d\u4e8b\u4ef6"
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        2102905875, 
+                        "\u4f11\u6574\u9636\u6bb5\u5f00\u59cb"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        2145505996, 
+                        "\u4f11\u6574\u9636\u6bb5\u7ed3\u675f"
+                    ]
+                }
+            ], 
+            "key": "gN2SIQ7HEe+MHDDQQuTajB", 
+            "name": "\u4f11\u6574\u4e8b\u4ef6"
+        }
+    ]
+}

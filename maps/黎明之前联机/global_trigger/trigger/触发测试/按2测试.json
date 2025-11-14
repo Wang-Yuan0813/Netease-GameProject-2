@@ -1,0 +1,48 @@
+{
+    "action": [
+        {
+            "action_type": "SEND_CUSTOM_EVENT", 
+            "args_list": [
+                {
+                    "arg_type": 100238, 
+                    "args_list": [
+                        1667285011
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100025, 
+                    "args_list": [], 
+                    "sub_type": "TRIGGER_PLAYER"
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1649930254000018, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        3
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1649930254000001, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }
+    ], 
+    "group_id": "tcP4nr3fEe659mwkCM0y6C", 
+    "p_trigger_id": null, 
+    "trigger_id": 1649930254, 
+    "trigger_name": "按2测试", 
+    "valid": true
+}

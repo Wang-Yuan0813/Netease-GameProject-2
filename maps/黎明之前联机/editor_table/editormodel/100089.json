@@ -1,0 +1,443 @@
+{
+    "describe": 1349038353, 
+    "editor_res": false, 
+    "key": 100089, 
+    "map_name": "h52", 
+    "model_id": 100089, 
+    "name": -395774678, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_2D", 
+            "code_Hero", 
+            "code_Female", 
+            "code_Youth", 
+            "code_Strong", 
+            "code_Yellow"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/100089", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "bip001 l hand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack2": {
+            "__tuple__": true, 
+            "items": [
+                "attack2", 
+                "bip001 r hand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "blood": {
+            "__tuple__": true, 
+            "items": [
+                "blood", 
+                "bip001 spine1", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "buff0": {
+            "__tuple__": true, 
+            "items": [
+                "buff0", 
+                "bone007", 
+                0.0410387516022, 
+                -0.00547698974609, 
+                -0.00239691257477
+            ]
+        }, 
+        "buff1": {
+            "__tuple__": true, 
+            "items": [
+                "buff1", 
+                "bone007", 
+                0.0214210152626, 
+                0.0367911529541, 
+                -0.00289577007294
+            ]
+        }, 
+        "buff2": {
+            "__tuple__": true, 
+            "items": [
+                "buff2", 
+                "bone007", 
+                -0.0219605374336, 
+                0.0431333732605, 
+                -0.00235531330109
+            ]
+        }, 
+        "buff3": {
+            "__tuple__": true, 
+            "items": [
+                "buff3", 
+                "bone007", 
+                -0.0457366418839, 
+                0.00333729743958, 
+                -0.00284518718719
+            ]
+        }, 
+        "buff4": {
+            "__tuple__": true, 
+            "items": [
+                "buff4", 
+                "bone007", 
+                -0.0303682112694, 
+                -0.0365960693359, 
+                -0.00283233642578
+            ]
+        }, 
+        "buff5": {
+            "__tuple__": true, 
+            "items": [
+                "buff5", 
+                "bone007", 
+                0.0174597167969, 
+                -0.0413837909698, 
+                -0.00298004627228
+            ]
+        }, 
+        "centroid": {
+            "__tuple__": true, 
+            "items": [
+                "centroid", 
+                "Scene Root", 
+                0.0, 
+                0.879, 
+                0.0
+            ]
+        }, 
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "bip001 l foot", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "bip001 r foot", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_attack_02s": {
+            "__tuple__": true, 
+            "items": [
+                "fx_attack_02s", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_buff_01_01": {
+            "__tuple__": true, 
+            "items": [
+                "fx_buff_01_01", 
+                "bone007", 
+                0.0274463844299, 
+                0.0382168579102, 
+                0.00164044857025
+            ]
+        }, 
+        "fx_buff_01_02": {
+            "__tuple__": true, 
+            "items": [
+                "fx_buff_01_02", 
+                "bone007", 
+                0.0466223239899, 
+                -0.00356098175049, 
+                0.0000212907791138
+            ]
+        }, 
+        "fx_buff_01_03": {
+            "__tuple__": true, 
+            "items": [
+                "fx_buff_01_03", 
+                "bone007", 
+                0.0174890482426, 
+                -0.0441334724426, 
+                -0.0000201654434204
+            ]
+        }, 
+        "fx_buff_01_04": {
+            "__tuple__": true, 
+            "items": [
+                "fx_buff_01_04", 
+                "bone007", 
+                -0.02755838871, 
+                -0.0392345809937, 
+                -0.0000396156311035
+            ]
+        }, 
+        "fx_buff_01_05": {
+            "__tuple__": true, 
+            "items": [
+                "fx_buff_01_05", 
+                "bone007", 
+                -0.0465926218033, 
+                0.0043922328949, 
+                -0.0000207710266113
+            ]
+        }, 
+        "fx_buff_01_06": {
+            "__tuple__": true, 
+            "items": [
+                "fx_buff_01_06", 
+                "bone007", 
+                -0.0186398816109, 
+                0.0443517303467, 
+                0.0000190591812134
+            ]
+        }, 
+        "fx_recall": {
+            "__tuple__": true, 
+            "items": [
+                "fx_recall", 
+                "bone007", 
+                -9.95753798634e-7, 
+                0.00000199317932129, 
+                -0.00000298976898193
+            ]
+        }, 
+        "fx_skill_1_2": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_1_2", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_1_3": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_1_3", 
+                "bip001 r hand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_2_1": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_2_1", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_2_2": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_2_2", 
+                "bone007", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_3_0": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_3_0", 
+                "bone007", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_3_1": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_3_1", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_3_3_1": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_3_3_1", 
+                "", 
+                0.00608099997044, 
+                0.137328996658, 
+                0.0843659973145
+            ]
+        }, 
+        "fx_skill_3_4": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_3_4", 
+                "bone007", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_3_5": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_3_5", 
+                "bone007", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_3_6": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_3_6", 
+                "bip001 spine1", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "bip001 l hand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "bip001 r hand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "bip001 head", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "bip001 spine1", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "bip001 head", 
+                -0.2, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "sound_vo": {
+            "__tuple__": true, 
+            "items": [
+                "sound_vo", 
+                "", 
+                0.0, 
+                0.00125, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                1.758, 
+                0.0
+            ]
+        }, 
+        "tp_light": {
+            "__tuple__": true, 
+            "items": [
+                "tp_light", 
+                "", 
+                0.0, 
+                0.0, 
+                -0.0545900011063
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                2.258, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_100089"
+}

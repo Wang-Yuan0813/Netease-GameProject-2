@@ -1,0 +1,1008 @@
+[
+ {
+  "name": "\u602a\u7269\u8868\u683c", 
+  "key": "uReBMBl4Ee+AUTDQQuTajM", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "462fdf37-0517-45f3-8492-b4b46b855d2e", 
+     "\u5b57\u7b26\u4e32\u5bf9\u5e94\u602a\u7269\u5355\u4f4d\u7c7b\u578b"
+    ]
+   }, 
+   {
+    "name": "\u5f02\u65cf\u5237\u602a\u8868", 
+    "key": "vxztYcQXEe6cHGwkCM0y6J", 
+    "group": [
+     {
+      "name": "\u5f02\u65cf\u5237\u5c0f\u602a\u8868", 
+      "key": "FREOzxv9Ee++cjDQQuTajG", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "749c320c-ca01-4b29-9ed8-8f5a8ef19146", 
+         "\u9636\u6bb51"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "3cb6957d-9039-4896-92b7-f5df62b6f147", 
+         "\u9636\u6bb52boss"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "c516fed0-4319-4c8a-bf1b-23b888bde829", 
+         "\u9636\u6bb53"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "f74492c7-bb31-4101-af47-daeb114779ee", 
+         "\u9636\u6bb54boss"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "bf9e4c62-98dd-4623-a086-bbaaaf262baa", 
+         "\u9636\u6bb55"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "2b63301e-a9a3-452d-bece-662f5c112fb7", 
+         "\u9636\u6bb56boss"
+        ]
+       }
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "20299fd5-7006-4acf-a9f3-2567f7df0c24", 
+       "\u51b2\u5854\u5934\u76ee\u5355\u4f4d\u7c7b\u578b"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "23d88d59-bd74-4b05-a779-6f26b98d4179", 
+       "\u666e\u901a\u7ad9\u573aboss\u5355\u4f4d\u7c7b\u578b"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "42d9b1e9-9662-457b-b0dc-7d2e0ae5b462", 
+       "\u6700\u7ec8\u5173\u5361boss\u5355\u4f4d\u7c7b\u578b"
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "\u602a\u7269\u8be6\u7ec6\u57fa\u7840\u5c5e\u6027", 
+    "key": "vjUDkRl4Ee+p+TDQQuTajL", 
+    "group": [
+     {
+      "name": "\u5c0f\u602a", 
+      "key": "zzR3LhvZEe+MPDDQQuTajJ", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "7ab827b6-b67c-42fc-a1a6-eec8e2e9ed2b", 
+         "\u866b\u65cf-\u5c0f\u8718\u86db"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "7a307b35-cc67-4236-bedf-5f4fee4773d4", 
+         "\u866b\u65cf-\u6bd2\u874e"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "b59da47d-8b7f-48d9-b327-428a2dd522b2", 
+         "\u866b\u65cf-\u81ea\u7206\u98de\u866b"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "501754c0-b943-40c6-bf75-203a85039b54", 
+         "\u866b\u65cf-\u91d1\u7532\u866b"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "8f200e54-7ec5-4256-bb3e-2cf9b06c918e", 
+         "\u866b\u65cf-\u8718\u86db\u602a"
+        ]
+       }
+      ]
+     }, 
+     {
+      "name": "\u5927\u602a", 
+      "key": "NTxiTxqPEe+hSjDQQuTajG", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "16fcf4eb-746c-467a-9fa7-d13fc585d422", 
+         "\u866b\u65cf-\u6606\u866b\u6218\u58eb"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "a3608423-1dab-4200-9bd7-821bec219b5e", 
+         "\u866b\u65cf-\u9b54\u8c61"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "2ed8eea6-aff4-4e40-a7d5-443481468944", 
+         "\u866b\u65cf-\u8718\u86db\u5973\u5996"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "5f3ddef3-b1f0-44d7-8929-abf72a90a541", 
+         "\u866b\u65cf-\u6d77\u5996\u4e4b\u738b"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "4519a5b9-f33d-433e-912c-333020fa4a76", 
+         "\u866b\u65cf-\u9b54\u9f99"
+        ]
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "\u602a\u7269\u6280\u80fd\u8868", 
+    "key": "wm7GABahEe+7ZzDQQuTajL", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "fcb2aab5-82a1-4b99-bf2a-7a4e0c2b50e7", 
+       "\u866b\u65cf-\u9b54\u9f99-\u666e\u901a\u653b\u51fb"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "0cddcb36-97b4-48e2-8222-264793421d66", 
+       "\u866b\u65cf-\u9b54\u9f99-\u55b7\u706b"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "4fcd15fa-ae90-4b41-baeb-064f94b91210", 
+       "\u866b\u65cf-\u9b54\u9f99-\u706b\u7403"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "f0226507-e24d-46cb-86df-86fca022227f", 
+       "\u866b\u65cf-\u6606\u866b\u6218\u58eb-\u6355\u730e"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "ff019468-1c61-456d-b9ed-b52c6f48e93d", 
+       "\u866b\u65cf-\u6606\u866b\u6218\u58eb-\u65a9\u51fb"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "3181de18-307e-4b00-8ffa-c158709cc327", 
+       "\u866b\u65cf-\u6606\u866b\u6218\u58eb-\u9707\u51fb"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "1c114c46-1e4b-4621-8647-86c827950a5a", 
+       "\u866b\u65cf-\u9b54\u8c61-\u666e\u901a\u653b\u51fb"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "740ecef7-fe90-46e8-b99a-3814d7efe784", 
+       "\u866b\u65cf-\u8718\u86db\u5973\u5996-\u666e\u901a\u653b\u51fb"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "dba3a0a3-b944-441b-88ca-6046a636ec84", 
+       "\u866b\u65cf-\u8718\u86db\u5973\u5996-\u6b7b\u4ea1\u5c04\u7ebf"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "21d67b2a-8e39-42d1-a68a-5aaf0a0515e6", 
+       "\u866b\u65cf-\u8718\u86db\u5973\u5996-\u53ec\u5524"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "3b96def6-b7c8-4e6d-b479-37f0cbe8a552", 
+       "\u866b\u65cf-\u8718\u86db\u5973\u5996-\u86db\u7075\u4e4b\u706b"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "b0264a62-0a6e-4624-8a82-31cff1acd2c0", 
+       "\u866b\u65cf-\u8718\u86db\u5973\u5996-\u6293\u53d6"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "fe84827e-3999-4974-8d40-95c0cb40ac88", 
+       "\u866b\u65cf-\u6d77\u5996\u4e4b\u738b-\u6697\u6d41\u6d8c\u52a8"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "63db1b90-f0dc-4322-b192-7a20fccfbc54", 
+       "\u866b\u65cf-\u6d77\u5996\u4e4b\u738b-\u6d77\u5996\u65a9"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "fbd7d0ba-c896-4659-9726-f7437e8ae73f", 
+       "\u866b\u65cf-\u6d77\u5996\u4e4b\u738b-\u5524\u6f6e"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "86702774-bec3-44f8-86e7-bb25a0f95f41", 
+       "\u866b\u65cf-\u6d77\u5996\u4e4b\u738b-\u6c34\u7262"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "e5b840e2-adaa-4c7a-894b-8a0cc0db648b", 
+       "\u866b\u65cf-\u6d77\u5996\u4e4b\u738b-\u6c34\u9f99\u5377"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "aa93c1e3-8bdf-48e6-b940-a851710ab458", 
+       "\u866b\u65cf-\u9b54\u8c61-\u951a\u51fb"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "0edc09f4-3c53-4e87-8656-8001220e8b29", 
+       "\u866b\u65cf-\u9b54\u8c61-\u6311\u65a9"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "562eb98b-61fe-4b9d-a81c-bd100e82ed46", 
+       "\u866b\u65cf-\u9b54\u8c61-\u8c61\u6012"
+      ]
+     }
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u5175\u79cd\u8868\u683c", 
+  "key": "sws-IRJ-Ee+5sjDQQuTajL", 
+  "group": [
+   {
+    "name": "\u5361\u69fd\u5c5e\u6027\u8868\u683c", 
+    "key": "SWC9cB8xEe+83TDQQuTajD", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "6f664781-7e19-4f87-9873-d9479844c863", 
+       "1\u53f7\u5175\u79cd\u5c5e\u6027\u8868\u683c"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "640f44da-ba36-4e92-b523-fe48b216f7e4", 
+       "2\u53f7\u5175\u79cd\u5c5e\u6027\u8868\u683c"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "aac4ffc2-1a20-4654-9824-7d00f064dd16", 
+       "3\u53f7\u5175\u79cd\u5c5e\u6027\u8868\u683c"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "93f14487-9446-465d-8a70-700de016d2d9", 
+       "4\u53f7\u5175\u79cd\u5c5e\u6027\u8868\u683c"
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "\u5175\u79cd\u8be6\u7ec6\u5c5e\u6027", 
+    "key": "uv0B8BjnEe+K0jDQQuTajI", 
+    "group": [
+     {
+      "name": "\u8fd1\u6218\u5175\u79cd", 
+      "key": "si7okRs1Ee+iGzDQQuTajF", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "e84d2d0b-9fb5-47cf-b455-60606fc1fcb3", 
+         "\u5200\u76fe\u5175"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "65655120-1b7a-47bc-837c-850f07c1c96f", 
+         "\u9524\u5b50\u602a"
+        ]
+       }
+      ]
+     }, 
+     {
+      "name": "\u8fdc\u7a0b\u5175\u79cd", 
+      "key": "tOH6nhs1Ee+ghzDQQuTajD", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "79abde6b-88b3-4a94-9f5e-5d0de9c7c710", 
+         "\u6e38\u51fb\u5175"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "ad48aa95-fa11-45f3-942c-d2132c4836b7", 
+         "\u55b7\u6c14\u5175"
+        ]
+       }
+      ]
+     }, 
+     {
+      "name": "\u70ae\u8f66", 
+      "key": "vK5JURs1Ee+NNTDQQuTajI", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "6cfe56c5-b7aa-4578-8b9c-830521376dd1", 
+         "\u6e05\u969c\u8005"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "29c9ad32-df4b-49f8-8396-999d98e78e27", 
+         "\u8f70\u70b8\u8005"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "f4df4922-fe93-40c2-9ec4-9acb1574c021", 
+         "\u5546\u52a1\u706b\u7bad\u70ae"
+        ]
+       }
+      ]
+     }, 
+     {
+      "name": "\u91cd\u7532\u5175", 
+      "key": "wSFa3hs1Ee+M7zDQQuTajC", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "a4c6ef88-0cf9-4b49-b91d-83e7ce36dd14", 
+         "\u65e0\u754f\u6218\u7532"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "fb234573-0b17-4274-9232-4bd6a8cb10a2", 
+         "\u94c1\u62f3\u6218\u7532"
+        ]
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "b655ff6c-5437-4cab-ac2b-7080b52711f5", 
+     "\u57fa\u7840\u5175\u79cd\u4fe1\u606f"
+    ]
+   }, 
+   {
+    "name": "\u8868\u6a21\u677f", 
+    "key": "JQtXwBKHEe+KvTDQQuTajL", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "007a07e2-32cd-4b7e-85b2-5ce4c7855b18", 
+       "\u73a9\u5bb6\u5c40\u5185\u5df2\u9009\u5175\u79cd\u8868\u6a21\u677f"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "7eff6e0c-8b74-4192-9a0f-03ab7ed894ca", 
+       "\u5175\u79cd\u5361\u7247\u5bf9\u5e94\u63d2\u69fd\u8868\u6a21\u677f"
+      ]
+     }
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u9053\u5177\u8868\u683c", 
+  "key": "1m7cXhHkEe+DRzDQQuTajF", 
+  "group": [
+   {
+    "name": "\u9053\u5177\u8be6\u7ec6\u5c5e\u6027", 
+    "key": "p5LC3hcVEe+nMDDQQuTajF", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "b923f9c6-f5bf-4ea3-94ea-bf4f3dc7ca64", 
+       "\u5c0f\u76fe"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "2f750ce9-d9e7-4d3a-b55d-b86086f5d968", 
+       "\u5934\u5dfe"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "bbc6895e-ddb1-41b7-a736-c58b6f47f9ff", 
+       "\u80fd\u91cf\u62a4\u76fe"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "c6fa9d0f-a705-424b-b82e-28080d84103b", 
+       "\u77ed\u5251"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "26ce5f6e-6ccd-445a-b77b-77fd5ae852d0", 
+       "\u94dc\u8d28\u624b\u73af"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "db157e24-af8c-4e11-9ca2-20109f862d54", 
+       "\u94dc\u8d28\u9879\u94fe"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "56c68044-869f-4fdc-89e5-ce94baa9fc3f", 
+       "\u6218\u672f\u957f\u5251"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "f7b06b03-adf4-4035-9cd8-352d616eb442", 
+       "\u6218\u672f\u6b65\u67aa"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "deed1e75-5828-4f8c-b633-cf5522d560ab", 
+       "\u6ce8\u5c04\u5668"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "fce6cdc9-dc8f-4ad3-8519-2c72a428576f", 
+       "\u80fd\u91cf\u7c89\u5242"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "414487c6-2dbe-4ede-93b3-dc694cbabd61", 
+       "\u7167\u660e\u5f39"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "2dc15fc5-a68d-4d94-b006-9d7600e7ac06", 
+       "\u4e0b\u58eb\u72d7\u724c"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "96dfc9bf-a48a-421c-869e-b653ed6c30b5", 
+       "\u94c1\u8d28\u76fe\u724c"
+      ]
+     }
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "666c4626-c59c-4c0c-b2c7-c8ed71c70d24", 
+     "\u57fa\u7840\u9053\u5177\u5361\u7247"
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u79d1\u6280\u8868\u683c", 
+  "key": "iwCUHhEOEe+jHzDQQuTajI", 
+  "group": [
+   {
+    "name": "\u79d1\u6280\u5177\u4f53\u5c5e\u6027", 
+    "key": "P0k3wBdFEe+xRjDQQuTajF", 
+    "group": [
+     {
+      "name": "1-\u5175\u79cd", 
+      "key": "xIvADxdFEe+X1jDQQuTajC", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "4dd8ef0d-b406-47cc-9dd6-c845bbcf491e", 
+         "\u5623"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "b3890379-9d6e-40a5-a84e-052a5242ccf5", 
+         "\u6218\u610f\u4e0d\u606f"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "ad8ba1b5-d929-48e0-9647-99c3095b98d6", 
+         "\u5e26\u523a\u5916\u58f3"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "fb634dea-f9fc-482b-9323-e26a50914f39", 
+         "\u6ce1\u6ce1\u9a6c\u7279"
+        ]
+       }
+      ]
+     }, 
+     {
+      "name": "2-\u73a9\u5bb6", 
+      "key": "wbnbXhdFEe+b4DDQQuTajJ", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "9ca4267d-9a59-400e-995b-6a23a7649579", 
+         "\u5c31\u5730\u53d6\u6750"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "896e7d8a-935b-4d6d-bc75-4e2c222d714d", 
+         "\u5b8f\u89c2\u8c03\u63a7"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "7fe4ccec-a33c-456c-9d65-02c0e6cb7001", 
+         "\u7535\u51fb\u8001\u5b50"
+        ]
+       }
+      ]
+     }, 
+     {
+      "name": "3-\u5175\u79cd\u53ca\u73a9\u5bb6", 
+      "key": "v3hPzxdFEe+O3DDQQuTajJ", 
+      "group": [
+       {
+        "__tuple__": true, 
+        "items": [
+         "2efc29e5-adf2-4931-8092-0d7e2e88e634", 
+         "\u70ae\u706b\u91cd\u751f"
+        ]
+       }, 
+       {
+        "__tuple__": true, 
+        "items": [
+         "1f4eaf0d-847b-49ff-af77-84441b3a9cea", 
+         "\u5bc4\u751f\u70b8\u5f39"
+        ]
+       }
+      ]
+     }
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "2805da50-96d1-4595-a6f5-949086d5784d", 
+     "\u57fa\u7840\u79d1\u6280\u5361\u7247"
+    ]
+   }, 
+   {
+    "name": "\u8868\u6a21\u677f", 
+    "key": "M43iXhGkEe+EMTDQQuTajE", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "590dab5c-4e92-4f58-b305-c3117e56cc4e", 
+       "\u73a9\u5bb6\u5c40\u5185\u79d1\u6280\u8868\u6a21\u677f"
+      ]
+     }
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u7f81\u7eca\u8868\u683c", 
+  "key": "xBzOABydEe+V0DDQQuTajF", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "4c3ed912-6c83-426a-bea9-340d5e3a6856", 
+     "\u57fa\u7840\u7f81\u7eca\u4fe1\u606f"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "1ebe5991-662e-4e99-b468-2ef33b0e4bbc", 
+     "\u7f81\u7eca\u540d\u79f0\u5bf9\u5e94\u7f16\u53f7"
+    ]
+   }, 
+   {
+    "name": "\u7f81\u7eca\u8be6\u7ec6\u5c5e\u6027", 
+    "key": "3sjOwBydEe+wEjDQQuTajM", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "204c44ca-9b67-4885-8279-db02cb31c108", 
+       "\u51b3\u6597"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "20283bc5-113c-48ab-95f7-df76cb7a8a7d", 
+       "\u54e8\u4f4d"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "b9fec5fc-9d16-4cc3-a91a-a5de15ea384f", 
+       "\u5148\u950b"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "63c5155c-c3b2-49a3-bca3-f503d202f43a", 
+       "\u63a7\u573a"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "ddb8b89b-cd1e-4d86-8859-f7eb7be07d49", 
+       "\u7ea2\u7532"
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "\u8868\u6a21\u677f", 
+    "key": "bfbdbhy4Ee+gvTDQQuTajL", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "b817fb7f-0070-4c59-8a62-d5f2ed567794", 
+       "\u5c40\u5185\u5df2\u6709\u7f81\u7eca\u8868\u6a21\u677f"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "93ce7a1a-f0f2-465c-9e2d-e6a9a3dc7aad", 
+       "\u5c40\u5185\u5df2\u751f\u6548\u7f81\u7eca\u8868\u6a21\u677f"
+      ]
+     }
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u88c5\u5907\u8868\u683c", 
+  "key": "t-dcHsffEe6N8GwkCM0y6C", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "59e2a644-ce0c-4076-9c0b-f212f4db8d98", 
+     "\u57fa\u7840\u88c5\u5907\u7f16\u53f7\u5bf9\u5e94\u8868"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "7c0e5c8c-0144-45a0-ad1a-ac44bbfd8808", 
+     "\u57fa\u7840\u88c5\u5907\u8868\u683c"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "a55e666d-6474-4870-8343-a484ec2e5ebb", 
+     "\u5c5e\u6027\u8be6\u7ec6\u63cf\u8ff0"
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u754c\u9762\u63a7\u4ef6\u8868\u683c", 
+  "key": "y9hNERT4Ee+iiDDQQuTajG", 
+  "group": [
+   {
+    "name": "\u5175\u79cd\u521b\u5efa\u573a\u666fUI\u8868\u683c\u6a21\u677f", 
+    "key": "v-JyjxwLEe+xNDDQQuTajD", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "d53d4495-563f-4a07-90ae-d0c046c4d007", 
+       "\u5175\u79cd\u521b\u5efa\u56fe\u6807\u573a\u666fUI\u8868\u6a21\u677f"
+      ]
+     }
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "9a40e2f0-d828-43c8-a75c-20debbcba617", 
+     "\u4f11\u6574\u671f\u95f4\u624d\u80fd\u663e\u793a\u7684\u63a7\u4ef6\u8868\u683c"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "47b7cbbd-54d2-4575-9fdb-bae37f89db38", 
+     "\u8fd0\u884c\u671f\u95f4\u624d\u80fd\u663e\u793a\u7684\u63a7\u4ef6\u8868\u683c"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "e3aaa330-0d7e-415d-b153-e6d080e7733a", 
+     "\u9053\u5177\u754c\u9762-\u4e92\u65a5\u754c\u9762\u63a7\u4ef6\u8868\u683c"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "7217f6d6-9ca1-4bad-b216-0d7f342065e2", 
+     "\u73a9\u5bb6\u72b6\u6001-\u4e92\u65a5\u754c\u9762\u63a7\u4ef6\u8868\u683c"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "a46d258e-7d35-4570-b952-c418cad01a80", 
+     "\u8fd0\u884c\u754c\u9762-\u4e92\u65a5\u754c\u9762\u63a7\u4ef6\u8868\u683c"
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u5c40\u5185\u65f6\u95f4\u8868\u683c", 
+  "key": "ogrBHhPvEe+SmDDQQuTajA", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "3093fe50-5fba-4f1e-8001-33eccd29210e", 
+     "\u5c40\u5185\u5012\u8ba1\u65f6\u8868\u683c"
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u73a9\u5bb6\u63a7\u5236\u89d2\u8272", 
+  "key": "UhsbgBHREe+OWDDQQuTajH", 
+  "group": [
+   {
+    "name": "\u89d2\u8272\u5c5e\u6027\u8868\u683c", 
+    "key": "Rody7hPyEe+UlDDQQuTajG", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "394d0da7-482f-4464-9173-312be523c488", 
+       "\u89d2\u8272\u5c5e\u6027"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "7476051e-7164-4a75-9fc4-63dc0d13a857", 
+       "\u8fd1\u6218\u57fa\u7840\u89d2\u8272"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "51a2a292-eeaf-4e49-b68d-2a011e1831ce", 
+       "\u8fdc\u7a0b\u57fa\u7840\u89d2\u8272"
+      ]
+     }
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "dbc41b02-70a2-4615-b61b-16495692fb2a", 
+     "\u73a9\u5bb6\u7f16\u53f7\u5bf9\u5e94\u5bfc\u822a\u89d2"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "1b2b0d97-6139-4fe1-b1a2-366a0e61c931", 
+     "\u79fb\u52a8\u5c5e\u6027\u8868"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "5f806483-f61c-4221-bed4-38b6b2621589", 
+     "\u7f16\u53f7\u5bf9\u5e94\u89d2\u8272\u8868"
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "lab", 
+  "key": "UC+dQOLAEe68rWwkCM0y6I", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "3a121239-d9ce-4583-916c-15818f9b7a03", 
+     "\u5175\u79cd\u989c\u8272\u8868\u683c"
+    ]
+   }, 
+   {
+    "name": "\u6389\u843d\u8868", 
+    "key": "taj38Aw+Ee+eMDDQQuTajC", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "dedac2a5-d73d-4090-98a5-964c83083548", 
+       "\u602a\u7269\u6389\u843d\u8868"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "05a81f2a-1b00-4ebb-a1c3-15f530095f69", 
+       "\u7269\u54c1\u7a00\u6709\u5ea6\u8868"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "ad77cb6f-dc49-467c-ad3b-a5dd1aa653b0", 
+       "\u602a\u7269\u5bf9\u5e94\u7f16\u53f7\u8868"
+      ]
+     }
+    ]
+   }, 
+   {
+    "name": "\u89c6\u89d2\u89d2\u5ea6", 
+    "key": "jweOwA3fEe+4wDDQQuTajK", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       "756a217a-5216-4d23-bcc2-6cb15ac1a884", 
+       "\u79fb\u52a8\u89d2\u5ea61-3"
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       "5c9c1c0f-828c-4f5c-915d-67b1002d7466", 
+       "\u79fb\u52a8\u89d2\u5ea62-4"
+      ]
+     }
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "64861605-8734-4c63-9dc0-af5d1328bcd7", 
+     "\u989c\u8272\u5bf9\u5e94\u7f16\u7801"
+    ]
+   }
+  ]
+ }, 
+ {
+  "name": "\u6570\u636e", 
+  "key": "3UMDkbttEe6nDWwkCM0y6I", 
+  "group": []
+ }
+]

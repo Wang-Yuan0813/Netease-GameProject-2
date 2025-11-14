@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Overseas/Fx_Skill/Fire/Fire_overseas_900081_passive_a0001_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134230245, 
+    "name": "\u707c\u70e7\u7279\u6548"
+}

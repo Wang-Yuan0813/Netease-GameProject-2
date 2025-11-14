@@ -1,0 +1,37 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "Key", 
+                "Type", 
+                "Value", 
+                "Des"
+            ], 
+            [
+                "\u6c34\u7262\u6982\u7387", 
+                "float", 
+                "10", 
+                ""
+            ], 
+            [
+                "\u6c34\u7262\u6301\u7eed\u65f6\u95f4", 
+                "float", 
+                "2", 
+                ""
+            ], 
+            [
+                "\u5bfc\u7535\u9ecf\u6db2\u6301\u7eed\u65f6\u95f4", 
+                "float", 
+                "3", 
+                ""
+            ]
+        ], 
+        "key": [
+            0
+        ], 
+        "kv_key_type": "str"
+    }, 
+    "table_type": 1, 
+    "tid": "fb634dea-f9fc-482b-9323-e26a50914f39"
+}

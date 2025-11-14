@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 0.7500000113, 
+    "effect_path": "Fx_Effect/S6/Fx_Skill/Line/Line_S6_light_a0005_copy", 
+    "is_beam_effect": true, 
+    "meshes": [], 
+    "model_id": 134275106, 
+    "name": "\u7535\u5f27-\u9644\u7740\u94fe\u63a5\u7279\u6548"
+}

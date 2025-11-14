@@ -1,0 +1,31 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "Key", 
+                "Type", 
+                "Value", 
+                "Des"
+            ], 
+            [
+                "\u5c0f\u8718\u86db", 
+                "int", 
+                "0", 
+                ""
+            ], 
+            [
+                "\u874e\u5b50", 
+                "int", 
+                "1", 
+                ""
+            ]
+        ], 
+        "key": [
+            0
+        ], 
+        "kv_key_type": "str"
+    }, 
+    "table_type": 1, 
+    "tid": "ad77cb6f-dc49-467c-ad3b-a5dd1aa653b0"
+}

@@ -1,0 +1,59 @@
+{
+    "archive_drop_config": {}, 
+    "archive_slots": {
+        "1": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 1, 
+            "name": "\u88c5\u5907\u5b58\u6863\u8868", 
+            "type": 4, 
+            "value": "\u53ef\u7528\u79d1\u6280"
+        }, 
+        "2": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 2, 
+            "name": "\u62e5\u6709\u7684\u88c5\u5907\u6570\u91cf", 
+            "type": 2, 
+            "value": 0
+        }, 
+        "3": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": true, 
+            "key": 3, 
+            "name": "\u88c5\u5907\u57fa\u7840\u5c5e\u6027\u52a0\u6210", 
+            "type": 4, 
+            "value": "\u88c5\u5907\u57fa\u7840\u5c5e\u6027"
+        }, 
+        "4": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 4, 
+            "name": "\u73a9\u5bb6\u9009\u53d6\u5355\u4f4d", 
+            "type": 2, 
+            "value": 1
+        }, 
+        "5": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": true, 
+            "key": 5, 
+            "name": "\u73a9\u5bb6\u53ef\u7528\u79d1\u6280", 
+            "type": 4, 
+            "value": "\u53ef\u7528\u79d1\u6280"
+        }, 
+        "6": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 6, 
+            "name": "6", 
+            "type": 0, 
+            "value": ""
+        }
+    }
+}

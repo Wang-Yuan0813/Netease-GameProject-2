@@ -1,0 +1,388 @@
+{
+    "300001": {
+        "0": {
+            "Longitude": 33.0, 
+            "RotationY": 360.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    93.00000205636024, 
+                    134.00000721216202, 
+                    205.00000298023224
+                ]
+            }, 
+            "SunColorIntensity": 3.0, 
+            "time": 0.0
+        }, 
+        "1": {
+            "Longitude": 36.0, 
+            "RotationY": 345.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    93.00000205636024, 
+                    134.00000721216202, 
+                    205.00000298023224
+                ]
+            }, 
+            "SunColorIntensity": 3.0, 
+            "time": 1.0
+        }, 
+        "2": {
+            "Longitude": 42.0, 
+            "RotationY": 330.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    93.00000205636024, 
+                    134.00000721216202, 
+                    205.00000298023224
+                ]
+            }, 
+            "SunColorIntensity": 3.0, 
+            "time": 2.0
+        }, 
+        "4": {
+            "Longitude": 52.0, 
+            "RotationY": 300.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    93.00000205636024, 
+                    134.00000721216202, 
+                    205.00000298023224
+                ]
+            }, 
+            "SunColorIntensity": 3.0, 
+            "time": 4.0
+        }, 
+        "6": {
+            "Longitude": 55.96, 
+            "RotationY": 270.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    163.00000548362732, 
+                    190.0000038743019, 
+                    195.0000035762787
+                ]
+            }, 
+            "SunColorIntensity": 5.75, 
+            "time": 6.0
+        }, 
+        "8": {
+            "Longitude": 53.0, 
+            "RotationY": 240.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    255.0, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 0.75, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    232.00000137090683, 
+                    245.00000059604645, 
+                    184.00000423192978
+                ]
+            }, 
+            "SunColorIntensity": 8.5, 
+            "time": 8.0
+        }, 
+        "10": {
+            "Longitude": 42.5, 
+            "RotationY": 210.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    255.0, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 0.75, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    243.00000071525574, 
+                    235.0000011920929, 
+                    154.00000602006912
+                ]
+            }, 
+            "SunColorIntensity": 7.75, 
+            "time": 10.0
+        }, 
+        "12": {
+            "Longitude": 34.0, 
+            "RotationY": 180.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    255.0, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 2.0, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    224.000001847744, 
+                    125.00000014901161
+                ]
+            }, 
+            "SunColorIntensity": 7.0, 
+            "time": 12.0
+        }, 
+        "13": {
+            "Longitude": 36.5, 
+            "RotationY": 165.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    255.0, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 2.0, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    216.00000232458115, 
+                    117.00000062584877
+                ]
+            }, 
+            "SunColorIntensity": 7.5, 
+            "time": 13.0
+        }, 
+        "14": {
+            "Longitude": 42.0, 
+            "RotationY": 150.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    255.0, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 2.0, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    208.0000028014183, 
+                    110.00000104308128
+                ]
+            }, 
+            "SunColorIntensity": 8.0, 
+            "time": 14.0
+        }, 
+        "16": {
+            "Longitude": 56.0, 
+            "RotationY": 120.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    220.00000208616257, 
+                    203.00000309944153, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 2.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    192.00000375509262, 
+                    95.00000193715096
+                ]
+            }, 
+            "SunColorIntensity": 8.0, 
+            "time": 16.0
+        }, 
+        "18": {
+            "Longitude": 56.0, 
+            "RotationY": 90.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    255.0, 
+                    220.00000208616257, 
+                    203.00000309944153, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 2.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    199.0000033378601, 
+                    189.00000393390656, 
+                    175.00000476837158
+                ]
+            }, 
+            "SunColorIntensity": 7.0, 
+            "time": 18.0
+        }, 
+        "20": {
+            "Longitude": 49.0, 
+            "RotationY": 60.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    93.00000205636024, 
+                    134.00000721216202, 
+                    205.00000298023224
+                ]
+            }, 
+            "SunColorIntensity": 3.0, 
+            "time": 20.0
+        }, 
+        "22": {
+            "Longitude": 42.0, 
+            "RotationY": 30.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    93.00000205636024, 
+                    134.00000721216202, 
+                    205.00000298023224
+                ]
+            }, 
+            "SunColorIntensity": 3.0, 
+            "time": 22.0
+        }, 
+        "23": {
+            "Longitude": 36.0, 
+            "RotationY": 15.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    93.00000205636024, 
+                    134.00000721216202, 
+                    205.00000298023224
+                ]
+            }, 
+            "SunColorIntensity": 3.0, 
+            "time": 23.0
+        }, 
+        "24": {
+            "Longitude": 33.0, 
+            "RotationY": 0.0, 
+            "SkyLightBaseColor": {
+                "__tuple__": true, 
+                "items": [
+                    216.00000232458115, 
+                    237.0000010728836, 
+                    255.0, 
+                    1.0
+                ]
+            }, 
+            "SkyLightIntensityScale": 3.5, 
+            "SunColor": {
+                "__tuple__": true, 
+                "items": [
+                    93.00000205636024, 
+                    134.00000721216202, 
+                    205.00000298023224
+                ]
+            }, 
+            "SunColorIntensity": 3.0, 
+            "time": 24.0
+        }
+    }
+}

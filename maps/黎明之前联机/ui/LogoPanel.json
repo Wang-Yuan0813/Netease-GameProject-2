@@ -1,0 +1,52 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                14.0, 
+                998.0, 
+                65.0, 
+                1535.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 903956, 
+            "name": "kk_logo", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    225.0, 
+                    1032.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    11.7188, 
+                    95.5556
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": [
+                320.0, 
+                68.0
+            ], 
+            "type": 4, 
+            "uid": "812cfb14-5e0e-4607-8331-9110331a648e"
+        }
+    ], 
+    "name": "LogoPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "f09f15f5-e2d0-441e-be6f-325a88472a01", 
+    "visible": true, 
+    "zorder": 400
+}

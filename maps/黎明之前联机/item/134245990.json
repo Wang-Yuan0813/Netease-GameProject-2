@@ -1,0 +1,44 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1766387713": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1766387713000155, 
+                    "enable": true, 
+                    "event_type": "ITEM_ADD_TO_PKG_EVENT"
+                }
+            ], 
+            "group_id": 134245990, 
+            "p_trigger_id": null, 
+            "trigger_id": 1766387713, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1766387713, 
+                        "\u65b0\u5efa\u89e6\u53d1\u5668"
+                    ]
+                }
+            ], 
+            "key": 134245990, 
+            "name": "134245990"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

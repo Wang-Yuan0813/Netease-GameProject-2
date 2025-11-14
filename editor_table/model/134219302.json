@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Skill/Water/Water_skill_pet_01_01_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134219302, 
+    "name": "\u6d77\u5996\u4e4b\u738b-\u6c34\u7262"
+}

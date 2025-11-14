@@ -1,0 +1,18 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_boundingbox": [
+        -5.874209880828857, 
+        -5.59458065032959, 
+        -6.2456583976745605, 
+        5.874209880828857, 
+        6.09458065032959, 
+        10.84458065032959
+    ], 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Realism/Fx_Skill/Soil/Soil_X1_xs_ztg_a0001_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134233338, 
+    "name": "Soil_X1_xs_ztg_a0001"
+}

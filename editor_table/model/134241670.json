@@ -1,0 +1,10 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Cartoon/Fx_Skill/Fire/Fire_5038_skill_huanhua_04_02_copy", 
+    "is_beam_effect": false, 
+    "meshes": [], 
+    "model_id": 134241670, 
+    "name": "\u9b54\u9f99-\u55b7\u706b"
+}
